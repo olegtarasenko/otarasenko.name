@@ -1,0 +1,69 @@
+[03-Jul-2015 09:29:18 UTC] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/olehus17/public_html/index.php on line 513
+[06-Jul-2015 13:48:25 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[06-Jul-2015 13:48:25 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 04:57:14 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 04:57:14 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 07:01:00 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 07:01:00 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 07:04:23 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 07:04:23 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 07:04:28 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 07:04:28 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 07:04:31 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 07:04:31 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 08:34:24 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 08:34:24 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 08:45:56 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 08:45:56 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 11:48:04 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 11:48:04 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 12:58:00 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 12:58:00 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 16:23:29 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 16:23:29 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 16:23:31 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 16:23:31 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 20:40:22 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 20:40:22 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 20:53:22 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 20:53:22 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 22:05:38 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[07-Jul-2015 22:05:38 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 00:08:00 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 00:08:00 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 00:35:57 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 00:35:57 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 02:15:17 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 02:15:17 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 04:23:34 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 04:23:34 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 04:23:35 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 04:23:35 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 05:19:01 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 05:19:01 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 05:57:53 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 05:57:53 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 07:31:32 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 07:31:32 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 07:39:02 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 07:39:02 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 13:23:13 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 13:23:13 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 13:23:21 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 13:23:21 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 13:24:08 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 13:24:08 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 18:34:06 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 18:34:06 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 18:34:06 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 18:34:06 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 18:34:06 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 18:34:06 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 18:37:35 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 18:37:35 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 18:37:35 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 18:37:35 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 18:46:31 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 18:46:31 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 18:46:31 UTC] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/olehus17/public_html/index.php on line 409
+[08-Jul-2015 18:46:31 UTC] PHP Notice:  Undefined index: msg in /home/olehus17/public_html/index.php on line 409
